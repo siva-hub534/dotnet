@@ -1,0 +1,16 @@
+C:\Users\SIVA KASI\Desktop\dotnetprojects\bin\Debug\net5.0\dotnetprojects.exe
+C:\Users\SIVA KASI\Desktop\dotnetprojects\bin\Debug\net5.0\dotnetprojects.deps.json
+C:\Users\SIVA KASI\Desktop\dotnetprojects\bin\Debug\net5.0\dotnetprojects.runtimeconfig.json
+C:\Users\SIVA KASI\Desktop\dotnetprojects\bin\Debug\net5.0\dotnetprojects.runtimeconfig.dev.json
+C:\Users\SIVA KASI\Desktop\dotnetprojects\bin\Debug\net5.0\dotnetprojects.dll
+C:\Users\SIVA KASI\Desktop\dotnetprojects\bin\Debug\net5.0\ref\dotnetprojects.dll
+C:\Users\SIVA KASI\Desktop\dotnetprojects\bin\Debug\net5.0\dotnetprojects.pdb
+C:\Users\SIVA KASI\Desktop\dotnetprojects\obj\Debug\net5.0\dotnetprojects.csprojAssemblyReference.cache
+C:\Users\SIVA KASI\Desktop\dotnetprojects\obj\Debug\net5.0\dotnetprojects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIVA KASI\Desktop\dotnetprojects\obj\Debug\net5.0\dotnetprojects.AssemblyInfoInputs.cache
+C:\Users\SIVA KASI\Desktop\dotnetprojects\obj\Debug\net5.0\dotnetprojects.AssemblyInfo.cs
+C:\Users\SIVA KASI\Desktop\dotnetprojects\obj\Debug\net5.0\dotnetprojects.csproj.CoreCompileInputs.cache
+C:\Users\SIVA KASI\Desktop\dotnetprojects\obj\Debug\net5.0\dotnetprojects.dll
+C:\Users\SIVA KASI\Desktop\dotnetprojects\obj\Debug\net5.0\ref\dotnetprojects.dll
+C:\Users\SIVA KASI\Desktop\dotnetprojects\obj\Debug\net5.0\dotnetprojects.pdb
+C:\Users\SIVA KASI\Desktop\dotnetprojects\obj\Debug\net5.0\dotnetprojects.genruntimeconfig.cache
